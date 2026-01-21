@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hi there 👋 I'm Jens
 
-<!--
-**jensma89/jensma89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Backend Software Engineer (Python)
 
-Here are some ideas to get you started:
+Backend-focused developer with a passion for Flutter and accessible, inclusive applications.  
+Currently exploring Cloud technologies (AWS) and continuously improving software engineering best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![ORM](https://img.shields.io/badge/ORM-6DB33F?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-FF6F61?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-000000?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-000000?style=flat-square)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B0082?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🌱 Open to Work
+
+Looking for new opportunities in **Backend Development (Python) or Flutter & accessible apps**.
+
+---
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/jens-mayer/) 
+
+---
+
+## 📌 Pinned Projects
+
+- **Mythic Access DnD API**  
+  Backend-heavy project showcasing Python, APIs, and clean architecture.
+
+- **Mythic Access DnD Frontend**  
+  Frontend project built with Flutter, focusing on accessibility.
