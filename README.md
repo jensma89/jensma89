@@ -40,7 +40,7 @@ Looking for new opportunities in **Backend Development (Python) or Flutter & acc
 
 ## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/jens-mayer/) 
+- [LinkedIn](https://www.linkedin.com/in/jens-mayer-dev/) 
 
 ---
 
