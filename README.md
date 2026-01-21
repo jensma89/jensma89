@@ -42,12 +42,4 @@ Looking for new opportunities in **Backend Development (Python) or Flutter & acc
 
 - [LinkedIn](https://www.linkedin.com/in/jens-mayer-dev/) 
 
----
 
-## 📌 Pinned Projects
-
-- **Mythic Access DnD API**  
-  Backend-heavy project showcasing Python, APIs, and clean architecture.
-
-- **Mythic Access DnD Frontend**  
-  Frontend project built with Flutter, focusing on accessibility.
