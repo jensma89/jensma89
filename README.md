@@ -37,7 +37,7 @@ Currently exploring Cloud technologies (AWS) and continuously improving software
 
 ## 🌱 Open to Work
 
-Looking for new opportunities in **Backend Development (Python) or Flutter & accessible apps**.
+Looking for new opportunities in **Backend Development (Python or Golang).**
 
 ---
 
