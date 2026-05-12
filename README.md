@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Jens
 
-# Backend Software Engineer (Python)
+# Software Engineer | Backend & IoT 
 
-Backend-focused developer with a passion for Flutter and accessible, inclusive applications.  
-Currently exploring Cloud technologies (AWS) and continuously improving software engineering best practices.
+Backend-focused developer with a passion for clean, accessible software.
+Specialized in Python and Go — building APIs, IoT systems, and tools that actually work.
 
 ---
 
