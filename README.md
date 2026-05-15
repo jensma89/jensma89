@@ -29,7 +29,7 @@ Specialized in Python and Go — building APIs, IoT systems, and tools that actu
 ![ORM](https://img.shields.io/badge/ORM-6DB33F?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
--
+#
 
 ### IoT & Embedded Systems
 ![IoT](https://img.shields.io/badge/IoT-FF9900?style=flat-square&logo=internet-of-things&logoColor=white)
