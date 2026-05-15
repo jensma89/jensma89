@@ -45,4 +45,8 @@ Looking for new opportunities in **Backend Development (Python/Golang) or IoT.**
 - [LinkedIn](https://www.linkedin.com/in/jens-mayer-dev/)
 - [My Portfolio](https://jens-mayer.dev/)
 
+<a href="https://www.linkedin.com/in/jens-mayer-dev/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
+<a href="https://jens-mayer.dev/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
+
 
