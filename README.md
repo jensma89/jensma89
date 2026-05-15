@@ -16,13 +16,13 @@ Specialized in Python and Go — building APIs, IoT systems, and tools that actu
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+#
 
 ### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
----
+#
 
 ### Backend
 ![APIs](https://img.shields.io/badge/APIs-000000?style=flat-square)
@@ -37,14 +37,14 @@ Specialized in Python and Go — building APIs, IoT systems, and tools that actu
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
--
+#
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
--
+#
 
 ### Cloud & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -53,13 +53,13 @@ Specialized in Python and Go — building APIs, IoT systems, and tools that actu
 ![Infomaniak](https://img.shields.io/badge/Infomaniak-0098FF?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square)
 
--
+#
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
--
+#
 
 ### Practices
 ![OOP](https://img.shields.io/badge/OOP-FF6F61?style=flat-square)
@@ -67,7 +67,6 @@ Specialized in Python and Go — building APIs, IoT systems, and tools that actu
 ![Accessibility](https://img.shields.io/badge/Accessibility-000000?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
 
--
 
 
 ---
