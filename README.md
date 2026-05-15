@@ -16,13 +16,13 @@ Specialized in Python and Go — building APIs, IoT systems, and tools that actu
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
--
+--
 
 ### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
--
+--
 
 ### Backend
 ![APIs](https://img.shields.io/badge/APIs-000000?style=flat-square)
