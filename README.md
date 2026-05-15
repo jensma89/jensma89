@@ -24,7 +24,6 @@ Specialized in Python and Go — building APIs, IoT systems, and tools that actu
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
 ![APIs](https://img.shields.io/badge/APIs-000000?style=flat-square)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B0082?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -43,6 +42,7 @@ Looking for new opportunities in **Backend Development (Python/Golang) or IoT.**
 
 ## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/jens-mayer-dev/) 
+- [LinkedIn](https://www.linkedin.com/in/jens-mayer-dev/)
+- [My Portfolio](https://jens-mayer.dev/)
 
 
