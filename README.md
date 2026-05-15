@@ -9,27 +9,66 @@ Specialized in Python and Go — building APIs, IoT systems, and tools that actu
 
 ## 🛠 Skills
 
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![ORM](https://img.shields.io/badge/ORM-6DB33F?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-FF6F61?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-FF9900?style=flat-square&logo=internet-of-things&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility-000000?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
-![APIs](https://img.shields.io/badge/APIs-000000?style=flat-square)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B0082?style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+### Frameworks
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+
+### Backend
+
+![APIs](https://img.shields.io/badge/APIs-000000?style=flat-square)
+![ORM](https://img.shields.io/badge/ORM-6DB33F?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat-square)
+
+
+### Iot 
+
+![IoT](https://img.shields.io/badge/IoT-FF9900?style=flat-square&logo=internet-of-things&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+
+
+### Cloud & DevOps
+
+![Infomaniak](https://img.shields.io/badge/Infomaniak-0098FF?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat-square)
+
+
+### Other
+
+![Accessibility](https://img.shields.io/badge/Accessibility-000000?style=flat-square)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B0082?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-FF6F61?style=flat-square)
+
+
+
+
+
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
